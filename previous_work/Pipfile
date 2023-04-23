@@ -1,0 +1,30 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[[source]]
+name = "torch"
+url = "https://download.pytorch.org/whl/torch_stable.html"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+numpy = "*"
+scikit-learn = "*"
+h5py = "*"
+requests = "*"
+cvxpy = "*"
+matplotlib = "*"
+seaborn = "*"
+tqdm = "*"
+plotly = "*"
+pyarrow = "*"
+ipywidgets = "*"
+pillow = "*"
+torch = {path = "./torch-1.9.1+cpu-cp39-cp39-linux_x86_64.whl"}
+
+[requires]
+python_version = "3.9"

@@ -20,7 +20,17 @@ This
 ***
 
 A list of technologies used :
-* [Jupyter Notebook](https://jupyter.org/) 
+- [Jupyter Notebook](https://jupyter.org/) 
+- [Python 3.8](https://www.python.org/downloads/release/python-380/)
+    - [numpy](https://numpy.org/)
+    - [pandas](https://pandas.pydata.org/)
+    - [scipy](https://scipy.org/)
+    - [matplotlib](https://matplotlib.org/)
+    - [plotly](https://plotly.com/)
+    - [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/)
+    - [seaborn](https://seaborn.pydata.org/)
+    - [torch](https://pytorch.org/)
+    - [tqdm](https://pypi.org/project/tqdm/)
 
 <a name="installation"></a>
 

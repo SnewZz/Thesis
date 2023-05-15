@@ -24,7 +24,7 @@ plotly = "*"
 pyarrow = "*"
 ipywidgets = "*"
 pillow = "*"
-torch = {path = "./torch-1.9.1+cpu-cp39-cp39-linux_x86_64.whl"}
+torch = "==2.0.1"
 
 [requires]
 python_version = "3.9"

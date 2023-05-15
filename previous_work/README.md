@@ -13,7 +13,7 @@ Explainability on recommenders with counterfactuals
 ### General Info
 
 ***
-This 
+This Repository
 <a name="technologies"></a>
 ### Technologies
 
@@ -38,6 +38,21 @@ A list of technologies used :
 
 ***
 
+As presented in the previous section, several technologies have been used in this repository : Jupyter Notebook and Python 3.9. So first make sure that you have these technologies on your computer. After that there is a list of several python modules, it is possible to install them one by one via pip, but it is also possible to use the pip_requirements.txt file or the Pipfile to install all this automatically as well as the right version of these technologies to be sure to be able to launch the project correctly. 
+
+The pip_requirements.txt is a plain text file that lists the Python packages and their versions, you can use it like this : 
+
+<code> pip install -r pip_requirements.txt </code>
+
+The Pipfile is a more modern way to manage the Python dependencies, these ones are presented in a human-readable format. You first need to have pipenv that you can download like this : 
+
+<code> pip install pipenv </code>
+
+Then you can use the Pipfile like this : 
+
+<code> pipenv install </code>
+
+
 #### Structure du projet
 
 ```
@@ -47,7 +62,9 @@ A list of technologies used :
 ├── notebooks
         └── plots
 ├── spotlight_ext
-├── rapport.pdf
+├── pip_requirements.txt
+├── Pipfile
+├── Pipfile.lock
 └── README.md
 ```
 
@@ -64,7 +81,7 @@ A list of technologies used :
     - advanced_plotting.ipynb :
     - basic_plotting.ipynb :
     - brute_force_rec_expl.ipynb :
-    - budget_strategies.ipynb :
+    - budget_strategies.ipynb : This file contains all the different implemented strategies to choose the next recommendation. See the notebook for further explainations.
     - helpers.ipynb :
     - matrix_factorization_for_rec_expl.ipynb :
     - misc.ipynb :

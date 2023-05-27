@@ -53,7 +53,7 @@ Then you can use the Pipfile like this :
 <code> pipenv install </code>
 
 
-#### Structure du projet
+#### Structure of the project
 
 ```
 ├── dice_ext

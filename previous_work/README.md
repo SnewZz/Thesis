@@ -1,5 +1,5 @@
 # CFExplainability
-Explainability on recommenders with counterfactuals
+Explainability on recommenders with counterfactuals explanations
 
 ***
 
@@ -13,7 +13,7 @@ Explainability on recommenders with counterfactuals
 ### General Info
 
 ***
-This Repository
+This Repository contains some code used to study the explainability on recommenders with different strategies. See ["Model-Agnostic Counterfactual Explanations of Recommendations"](http://dsachar.net/publication/2021-umap-ksg/) for more informations. 
 <a name="technologies"></a>
 ### Technologies
 

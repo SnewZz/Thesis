@@ -38,7 +38,7 @@ A list of technologies used :
 
 ***
 
-As presented in the previous section, several technologies have been used in this repository : Jupyter Notebook and Python 3.9. So first make sure that you have these technologies on your computer. After that there is a list of several python modules, it is possible to install them one by one via pip, but it is also possible to use the pip_requirements.txt file or the Pipfile to install all this automatically as well as the right version of these technologies to be sure to be able to launch the project correctly. 
+As presented in the previous section, several technologies have been used in this repository : Jupyter Notebook and Python 3.7. So first make sure that you have these technologies on your computer. After that there is a list of several python modules, it is possible to install them one by one via pip, but it is also possible to use the pip_requirements.txt file or the Pipfile to install all this automatically as well as the right version of these technologies to be sure to be able to launch the project correctly. 
 
 The pip_requirements.txt is a plain text file that lists the Python packages and their versions, you can use it like this : 
 

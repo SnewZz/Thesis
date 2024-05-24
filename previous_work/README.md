@@ -78,8 +78,8 @@ Then you can use the Pipfile like this :
     - brute_force_rec_expl.ipynb : Not used
     - clean_budget_strategies.ipynb : This file contains all the different implemented strategies to explore the search area and choose the next candidate. See the notebook for further explanations.
     - helpers.ipynb : This file contains several functions and class used in several notebooks. For example it contains functions to load/create the model, to create similarity matrix, to call the strategies with a specific budget, ...
-    - matrix_factorization_for_rec_expl.ipynb :
-    - misc.ipynb : TODO
+    - matrix_factorization_for_rec_expl.ipynb : Not used
+    - misc.ipynb : Not used
     - clean_paper_plots.ipynb : This file contained code to realise some plots presents in the paper entitled ["Model-Agnostic Counterfactual Explanations of Recommendations"](http://dsachar.net/publication/2021-umap-ksg/) and the plots for my thesis. 
     - pooling_repr_for_rec_expl.ipynb : Not used
     - score_preds.ipynb : Not used

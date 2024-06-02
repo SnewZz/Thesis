@@ -13,7 +13,7 @@ Explainability on recommenders with counterfactuals explanations
 ### General Info
 
 ***
-This Repository contains some code used to study the explainability on recommenders with different strategies. See ["Model-Agnostic Counterfactual Explanations of Recommendations"](http://dsachar.net/publication/2021-umap-ksg/) for more informations. 
+This Repository contains some code used to study the explainability on recommenders with different strategies. See ["Model-Agnostic Counterfactual Explanations of Recommendations"](http://dsachar.net/publication/2021-umap-ksg/) or the "GAILLY - Thesis.pdf" file for more informations. 
 <a name="technologies"></a>
 ### Technologies
 
